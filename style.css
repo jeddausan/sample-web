@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* styles for h1 
+. for class
+# for id
+*/
+.heading-hello {
+    color: red;
+}
